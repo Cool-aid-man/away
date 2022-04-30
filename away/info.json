@@ -1,0 +1,9 @@
+{
+    "author": ["TheDiscordHistorian", "sora"],
+    "install_msg": "`[p]load away` and `[p]help Away` to get started.",
+    "name": "Away",
+    "hidden": false,
+    "short": "Be away and come back.",
+    "description": "Away and back, lolz.",
+    "min_bot_version": "3.4.0"
+}
