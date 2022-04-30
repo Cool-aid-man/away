@@ -1,0 +1,9 @@
+{
+    "name": "Historian Cogs.",
+    "short": "Some utils (probably)",
+    "description": "Not really a good cog repo, but it is what it is.",
+    "install_msg": "These cogs come with no support and you should use them at your own! If there's an actual problem ping me or make a issue. Don't ask me for install instructions which I won't help with.",
+    "author": [
+        "TheDiscordHistorian"
+    ]
+}
